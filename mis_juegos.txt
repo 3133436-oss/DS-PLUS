@@ -1,0 +1,6 @@
+Videogame nds ALL v1.0 TuNombre https://github.com 0201.-.Mario.Kart.DS.Europe.En.Fr.De.Es.It.nds 33554432 https://github.com /roms/nds/
+Videogame nds ALL v1.0 TuNombre https://github.com 0389.-.Welcome.to.Animal.Crossing.-.Wild.World.Europe.En.Fr.De.Es.It.nds 67108864 https://github.com /roms/nds/
+Videogame nds ALL v1.0 TuNombre https://github.com 0431.-.Metroid.Prime.-.Hunters.Europe.En.Fr.De.Es.It.NoSSL.nds 67108864 https://github.com /roms/nds/
+Videogame nds ALL v1.0 TuNombre https://github.com 4757.-.Sonic.Sega.All-Stars.Racing.Europe.En.Fr.De.Es.It.nds 67108864 https://github.com /roms/nds/
+Videogame nds ALL v1.0 TuNombre https://github.com 4799.-.Sonic.Classic.Collection.Europe.En.Fr.De.Es.It.NDSEnhanced.nds 67108864 https://github.com /roms/nds/
+Videogame nds ALL v1.0 TuNombre https://github.com 4833.-.Pokemon.-.Edicion.Plata.SoulSilver.Spain.nds 134217728 https://github.com /roms/nds/
